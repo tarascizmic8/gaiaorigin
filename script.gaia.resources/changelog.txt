@@ -1,4 +1,7 @@
 
+[B]1.5.1 (2018.03.21)[/B]
+- Added Reddit Reaper settings.
+
 [B]1.4.0 (2018.03.03)[/B]
 - New Elementum icons.
 
