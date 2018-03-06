@@ -1,5 +1,8 @@
 
-[B]1.4.0 (2018.03.03)[/B]
+[B]1.5.0 (2018.03.06)[/B]
+- Update for the new repository.
+
+[B]1.5.0 (2018.03.06)[/B]
 - Added Elementum local torrent addon support.
 - Added notification on Elementum and Quasar download start.
 - Fixed player timeout exception.
