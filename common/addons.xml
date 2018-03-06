@@ -570,7 +570,7 @@
 </addon>
 
 <!-- ELEMENTUM REPOSITORY -->
-<addon id="repository.elementum" name="Elementum Repository" version="0.0.43.windows_x86" provider-name="elgatito">
+<addon id="repository.elementum" name="Elementum Repository" version="0.0.43" provider-name="elgatito">
 	<requires></requires>
 	<extension point="xbmc.addon.repository" name="Elementum Repository">
 		<info compressed="false">http://localhost:65220/repository/elgatito/plugin.video.elementum/addons.xml</info>
