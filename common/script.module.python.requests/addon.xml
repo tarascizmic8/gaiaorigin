@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="script.module.python.requests" name="Python Requests" version="2.16.1" provider-name="Miovi Team">
+<addon id="script.module.python.requests" name="Python Requests" version="2.16.2" provider-name="Miovi Team">
 	<requires>
 		<import addon="xbmc.python" version="2.1.0"/>
 	</requires>
